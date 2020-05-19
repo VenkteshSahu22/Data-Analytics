@@ -1,4 +1,4 @@
-# Write-a-Data-Scientist-Blog-Post
+# Data-Analytics
 ### Table of Contents
 
 1. [Installation](#installation)
